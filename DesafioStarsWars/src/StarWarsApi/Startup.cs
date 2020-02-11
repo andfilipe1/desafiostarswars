@@ -31,7 +31,7 @@ namespace StarWarsApi
                 c.SwaggerDoc("v1",
                     new Info
                     {
-                        Title = "BTG Star Wars",
+                        Title = "Star Wars",
                         Version = "v1",
                         Description = "API informações Star Wars",
                         Contact = new Contact

@@ -17,10 +17,10 @@ services:
       - starwars-network
 
   b2wstarwarsapi:
-    image: andfilipe1/b2wstarwarsapi
+    image: andfilipe1/starwarsapi
     build:
       context: .
-      dockerfile: src/B2W.StarWarsApi/Dockerfile
+      dockerfile: src/StarWarsApi/Dockerfile
     ports:
       - "8080:80"
     networks:
