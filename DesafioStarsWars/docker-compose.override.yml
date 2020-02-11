@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  b2wstarwarsapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"

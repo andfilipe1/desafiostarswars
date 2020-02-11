@@ -1,0 +1,35 @@
+version: '3.4'
+
+services:
+  starwars-mongo:
+    image: mongo
+    restart: always
+    ports:
+      - "27017:27017"
+    networks:
+      - starwars-network
+
+  redisstarwars:
+    image: redis:alpine
+    ports:
+      - "6379:6379"
+    networks:
+      - starwars-network
+
+  b2wstarwarsapi:
+    image: andfilipe1/b2wstarwarsapi
+    build:
+      context: .
+      dockerfile: src/B2W.StarWarsApi/Dockerfile
+    ports:
+      - "8080:80"
+    networks:
+      - starwars-network
+    depends_on:
+      - redisstarwars
+      - starwars-mongo
+
+
+networks: 
+    starwars-network:
+        driver: overlay

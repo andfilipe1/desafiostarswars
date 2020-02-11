@@ -1,0 +1,25 @@
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWars.Helpers\bin\Debug\netcoreapp2.1\B2W.StarWars.Helpers.deps.json
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWars.Helpers\bin\Debug\netcoreapp2.1\B2W.StarWars.Helpers.dll
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWars.Helpers\bin\Debug\netcoreapp2.1\B2W.StarWars.Helpers.pdb
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.csprojAssemblyReference.cache
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.csproj.CoreCompileInputs.cache
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.AssemblyInfoInputs.cache
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.AssemblyInfo.cs
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.dll
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.pdb
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\bin\Debug\netcoreapp2.1\B2W.StarWars.Helpers.deps.json
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\bin\Debug\netcoreapp2.1\B2W.StarWars.Helpers.dll
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\bin\Debug\netcoreapp2.1\B2W.StarWars.Helpers.pdb
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.csprojAssemblyReference.cache
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.dll
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.pdb
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\bin\Debug\netcoreapp2.1\B2W.StarWars.Helpers.deps.json
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\bin\Debug\netcoreapp2.1\B2W.StarWars.Helpers.dll
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\bin\Debug\netcoreapp2.1\B2W.StarWars.Helpers.pdb
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.AssemblyInfoInputs.cache
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.AssemblyInfo.cs
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.dll
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWars.Helpers\obj\Debug\netcoreapp2.1\B2W.StarWars.Helpers.pdb

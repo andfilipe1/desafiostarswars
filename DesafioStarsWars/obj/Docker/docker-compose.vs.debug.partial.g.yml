@@ -1,0 +1,28 @@
+version: '3.4'
+
+services:
+  b2wstarwarsapi:
+    image: andfilipe1/b2wstarwarsapi:dev
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "StarWarsApi"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_b2wstarwarsapi$
+    volumes:
+      - C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi:/app
+      - C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W:/src
+      - C:\Users\brandalc\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_b2wstarwarsapi$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_b2wstarwarsapi$ \"bin/Debug/netcoreapp2.2/B2W.StarWarsApi.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true

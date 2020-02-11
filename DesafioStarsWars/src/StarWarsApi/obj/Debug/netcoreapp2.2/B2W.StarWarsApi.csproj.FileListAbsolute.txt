@@ -1,0 +1,67 @@
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.deps.json
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.runtimeconfig.json
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.runtimeconfig.dev.json
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.dll
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.pdb
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Helpers.dll
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Infra.dll
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Model.dll
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Infra.pdb
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Model.pdb
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Helpers.pdb
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.csprojAssemblyReference.cache
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.csproj.CoreCompileInputs.cache
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.RazorAssemblyInfo.cache
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.RazorAssemblyInfo.cs
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.AssemblyInfoInputs.cache
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.AssemblyInfo.cs
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.RazorTargetAssemblyInfo.cache
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.csproj.CopyComplete
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.dll
+C:\Roberto\_AzureDevOps\Entrevistas\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.pdb
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.deps.json
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.runtimeconfig.json
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.runtimeconfig.dev.json
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.dll
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.pdb
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Helpers.dll
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Infra.dll
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Model.dll
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Infra.pdb
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Model.pdb
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Helpers.pdb
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.csprojAssemblyReference.cache
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.RazorAssemblyInfo.cache
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.RazorAssemblyInfo.cs
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.RazorTargetAssemblyInfo.cache
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.csproj.CopyComplete
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.dll
+C:\Users\luizb\OneDrive\Área de Trabalho\StarWarsApi-master\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.pdb
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.deps.json
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.runtimeconfig.json
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.runtimeconfig.dev.json
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.dll
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWarsApi.pdb
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Helpers.dll
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Infra.dll
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Model.dll
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Infra.pdb
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Model.pdb
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\bin\Debug\netcoreapp2.2\B2W.StarWars.Helpers.pdb
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.csprojAssemblyReference.cache
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.RazorAssemblyInfo.cache
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.RazorAssemblyInfo.cs
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.AssemblyInfoInputs.cache
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.AssemblyInfo.cs
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.RazorTargetAssemblyInfo.cache
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.csproj.CopyComplete
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.dll
+C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioB2W\src\B2W.StarWarsApi\obj\Debug\netcoreapp2.2\B2W.StarWarsApi.pdb

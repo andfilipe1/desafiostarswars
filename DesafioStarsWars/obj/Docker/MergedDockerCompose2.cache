@@ -1,0 +1,36 @@
+networks:
+  starwars-network:
+    driver: overlay
+services:
+  b2wstarwarsapi:
+    build:
+      context: C:\Users\brandalc\OneDrive - Banco BTG Pactual S.A\Documents\Repo-Git-BTG\Dev.-Back-End\DesafioStarWars-API
+      dockerfile: src/B2W.StarWarsApi/Dockerfile
+    depends_on:
+    - redisstarwars
+    - starwars-mongo
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: andfilipe1/b2wstarwarsapi
+    networks:
+      starwars-network: {}
+    ports:
+    - published: 8080
+      target: 80
+    - target: 80
+  redisstarwars:
+    image: redis:alpine
+    networks:
+      starwars-network: {}
+    ports:
+    - published: 6379
+      target: 6379
+  starwars-mongo:
+    image: mongo
+    networks:
+      starwars-network: {}
+    ports:
+    - published: 27017
+      target: 27017
+    restart: always
+version: '3.4'
